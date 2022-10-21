@@ -1,2 +1,2 @@
 # toven
-TypeScript oven
+This is where the TypeScript scripts bake.
